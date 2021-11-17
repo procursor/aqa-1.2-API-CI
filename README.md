@@ -6,7 +6,8 @@
 
 #### Задача №1 - Настройка CI:
 
-   [![Build status](https://ci.appveyor.com/api/projects/status/asssk2m5g2dtqf2w?svg=true)](https://ci.appveyor.com/project/procursor/aqa-1-2-api-ci)
+   [![Build status](https://ci.appveyor.com/api/projects/status/6o5gya1e61mnow2w?svg=true](https://ci.appveyor.com/project/procursor/aqa-1-2-api-ci)
+   
 
    
     
